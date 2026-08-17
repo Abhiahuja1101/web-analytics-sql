@@ -1,4 +1,4 @@
-# Web Analytics SQL — Advanced Query Portfolio
+# Web Analytics SQL  Advanced Query Portfolio
 
 A GA4-style analytics data model with a set of advanced SQL queries solving real product-analytics problems: sessionization, attribution modeling, cohort retention, funnel conversion, and event deduplication.
 
